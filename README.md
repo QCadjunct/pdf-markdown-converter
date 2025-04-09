@@ -1,4 +1,8 @@
-# Marker
+# Marker    
+  (Author: Vik Paruchuri, repository: git clone https://github.com/VikParuchuri/marker.git)   
+    
+  Special thanks, Thank you for making this repository to the community!  
+  
 
 Marker converts documents to markdown, JSON, and HTML quickly and accurately.
 
